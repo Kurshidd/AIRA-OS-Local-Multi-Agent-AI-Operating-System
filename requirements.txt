@@ -1,0 +1,14 @@
+ollama
+streamlit
+pydantic
+python-dotenv
+sqlite-utils
+chromadb
+sentence-transformers
+pymupdf
+numpy
+streamlit
+streamlit-option-menu
+streamlit-extras
+sentence-transformers>=3.0.0
+torch>=2.3.0
