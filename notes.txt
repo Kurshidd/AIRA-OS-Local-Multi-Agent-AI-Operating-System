@@ -1,0 +1,1 @@
+Agentic AI combines memory, planning, reasoning and tool usage.
